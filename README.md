@@ -1,3 +1,18 @@
+To install:
+```
+git clone https://github.com/lukeg8/udacity_flashcards.git
+```
+```
+yarn install
+```
+```
+yarn start
+```
+Tested on Android emulator, Samsung Note, iPhone. Notifications happen 7:05 AM.
+
+-------
+
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
